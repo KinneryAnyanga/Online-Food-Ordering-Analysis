@@ -47,7 +47,7 @@ To explore how a customer's background (age, gender, marital status, occupation,
 
 ### Who the customers are
 
-![Customers in each group](Images/Customers_in_Each_Group.png)
+![Customers in each group](https://github.com/KinneryAnyanga/Online-Food-Ordering-Analysis/commit/25334cc0c5cdf6b3a0227ce1d154d48766380a97)
 
 - The average customer is about 24 years old with a family of about 3
 - Roughly half are students, and most are single and have no income
@@ -59,7 +59,7 @@ About **76% of customers (217 of 285) said Yes** and 24% (68) said No, so the da
 
 ### Who says Yes more often
 
-![Share of Yes by marital status, occupation and income](Images/Likely_to_say_Yes.png)
+![Share of Yes by marital status, occupation and income](https://github.com/KinneryAnyanga/Online-Food-Ordering-Analysis/commit/25334cc0c5cdf6b3a0227ce1d154d48766380a97)
 
 | Group | Share of Yes |
 |-------|-------------|
@@ -72,7 +72,7 @@ About **76% of customers (217 of 285) said Yes** and 24% (68) said No, so the da
 
 ### Patterns across the new features
 
-![Share of Yes by age group, family type and income level](Images/Pattern_per_new_Group.png)
+![Share of Yes by age group, family type and income level](https://github.com/KinneryAnyanga/Online-Food-Ordering-Analysis/commit/25334cc0c5cdf6b3a0227ce1d154d48766380a97)
 
 - **Age:** 22-24 has the highest Yes-rate (88%); it drops to 65% at 25-27 and 62% at 28+
 - **Income:** the Yes-rate falls as income rises
@@ -81,7 +81,7 @@ About **76% of customers (217 of 285) said Yes** and 24% (68) said No, so the da
 
 ### Feedback is the strongest signal
 
-![Feedback by output](Images/Customer_Feedback.png)
+![Feedback by output](https://github.com/KinneryAnyanga/Online-Food-Ordering-Analysis/commit/25334cc0c5cdf6b3a0227ce1d154d48766380a97)
 
 - Customers with **positive feedback said Yes 87%** of the time
 - Customers with **negative feedback said Yes only 28%** of the time
@@ -116,8 +116,6 @@ cd Online-Food-Ordering-Analysis
 pip install pandas numpy matplotlib seaborn jupyter
 jupyter notebook Online_Food_Delivery_Analysis.ipynb
 ```
-
-> The notebook currently loads the data from a local Windows path. Before running, change the `pd.read_csv(...)` line to a relative path such as `Data/online food delivery dataset.csv`.
 
 ## Tools
 
