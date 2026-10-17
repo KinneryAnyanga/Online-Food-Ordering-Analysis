@@ -47,7 +47,7 @@ To explore how a customer's background (age, gender, marital status, occupation,
 
 ### Who the customers are
 
-![Customers in each group](https://github.com/KinneryAnyanga/Online-Food-Ordering-Analysis/commit/25334cc0c5cdf6b3a0227ce1d154d48766380a97)
+![Customers in each group](https://github.com/KinneryAnyanga/Online-Food-Ordering-Analysis/blob/master/Images/Customers%20in%20Each%20Group.png)
 
 - The average customer is about 24 years old with a family of about 3
 - Roughly half are students, and most are single and have no income
