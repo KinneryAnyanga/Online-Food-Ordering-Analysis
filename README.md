@@ -10,12 +10,22 @@ To explore how a customer's background (age, gender, marital status, occupation,
 - What kind of customers use online food delivery the most?
 - Which groups are more likely to say **Yes** to ordering?
 
+## Repository Structure
+
+```
+Online-Food-Ordering-Analysis/
+├── Data/                                  # Raw dataset (online food delivery dataset.csv)
+├── Images/                                # Charts produced by the notebook
+├── Online_Food_Delivery_Analysis.ipynb    # Full analysis
+├── online_food_delivery_engineered.csv    # Cleaned data with engineered features
+└── README.md
+```
+
 ## Dataset
 
 - **Raw size:** 388 rows x 14 columns, with no missing values
 - **After cleaning:** 285 rows (103 duplicate rows removed)
 - **Location:** customers appear to be in Bengaluru, India (based on the coordinates and 560xxx pin codes)
-- **Source:** `[EDIT: add the dataset source and link]`
 
 | Column | Description |
 |--------|-------------|
@@ -59,7 +69,7 @@ About **76% of customers (217 of 285) said Yes** and 24% (68) said No, so the da
 
 ### Who says Yes more often
 
-![Share of Yes by marital status, occupation and income](https://github.com/KinneryAnyanga/Online-Food-Ordering-Analysis/commit/25334cc0c5cdf6b3a0227ce1d154d48766380a97)
+![Share of Yes by marital status, occupation and income](https://github.com/KinneryAnyanga/Online-Food-Ordering-Analysis/blob/master/Images/Likely%20to%20say%20Yes.png)
 
 | Group | Share of Yes |
 |-------|-------------|
@@ -72,7 +82,7 @@ About **76% of customers (217 of 285) said Yes** and 24% (68) said No, so the da
 
 ### Patterns across the new features
 
-![Share of Yes by age group, family type and income level](https://github.com/KinneryAnyanga/Online-Food-Ordering-Analysis/commit/25334cc0c5cdf6b3a0227ce1d154d48766380a97)
+![Share of Yes by age group, family type and income level](https://github.com/KinneryAnyanga/Online-Food-Ordering-Analysis/blob/master/Images/Pattern%20per%20new%20Group.png)
 
 - **Age:** 22-24 has the highest Yes-rate (88%); it drops to 65% at 25-27 and 62% at 28+
 - **Income:** the Yes-rate falls as income rises
@@ -81,7 +91,7 @@ About **76% of customers (217 of 285) said Yes** and 24% (68) said No, so the da
 
 ### Feedback is the strongest signal
 
-![Feedback by output](https://github.com/KinneryAnyanga/Online-Food-Ordering-Analysis/commit/25334cc0c5cdf6b3a0227ce1d154d48766380a97)
+![Feedback by output](https://github.com/KinneryAnyanga/Online-Food-Ordering-Analysis/blob/master/Images/Customer%20Feedback.png)
 
 - Customers with **positive feedback said Yes 87%** of the time
 - Customers with **negative feedback said Yes only 28%** of the time
@@ -110,12 +120,7 @@ About **76% of customers (217 of 285) said Yes** and 24% (68) said No, so the da
 
 **Requirements:** Python 3.8+, Jupyter, and the libraries below.
 
-```bash
-git clone https://github.com/KinneryAnyanga/Online-Food-Ordering-Analysis.git
-cd Online-Food-Ordering-Analysis
-pip install pandas numpy matplotlib seaborn jupyter
-jupyter notebook Online_Food_Delivery_Analysis.ipynb
-```
+> The notebook currently loads the data from a local Windows path. Before running, change the `pd.read_csv(...)` line to a relative path such as `Data/online food delivery dataset.csv`.
 
 ## Tools
 
