@@ -1,0 +1,286 @@
+age,gender,marital_status,occupation,monthly_income,education,family_size,customer_type,lat,lon,pin_code,output,feedback,output_bin,income_ord,edu_ord,cust_ord,income_mid,has_income,age_group,family_band,income_per_head,lives_alone,large_family,is_married,is_student,financially_dependent,student_single,income_x_family,dist_centre_km,direction,geo_cluster,pin_customer_count,segment
+20,Female,Single,Student,No Income,Post Graduate,4,Frequent,12.9766,77.5993,560001,Yes,Positive,1,0,3,2,0,0,18-21,medium (3-4),0.0,0,0,0,1,1,1,0,0.7539684605823624,NE,0,6,Happy repeater
+24,Female,Single,Student,Below Rs.10000,Graduate,3,Regular,12.977,77.5773,560009,Yes,Positive,1,1,2,1,5000,1,22-24,medium (3-4),1666.6666666666667,0,0,0,1,0,1,3,1.9683820963726208,NW,0,22,Happy repeater
+22,Male,Single,Student,Below Rs.10000,Post Graduate,3,Regular,12.9551,77.6593,560017,Yes,Negative,1,1,3,1,5000,1,22-24,medium (3-4),1666.6666666666667,0,0,0,1,0,1,3,7.247046587375517,SE,1,5,Reluctant repeater
+22,Female,Single,Student,No Income,Graduate,6,Frequent,12.9473,77.5616,560019,Yes,Positive,1,0,2,2,0,0,22-24,large (5+),0.0,0,1,0,1,1,1,0,4.482025579536778,SW,4,1,Happy repeater
+22,Male,Single,Student,Below Rs.10000,Post Graduate,4,Frequent,12.985,77.5533,560010,Yes,Positive,1,1,3,2,5000,1,22-24,medium (3-4),1250.0,0,0,0,1,0,1,4,4.716578899167114,NW,0,8,Happy repeater
+27,Female,Married,Employee,More than 50000,Post Graduate,2,Regular,12.9299,77.6848,560103,Yes,Positive,1,4,3,1,60000,1,25-27,small (1-2),30000.0,0,0,1,0,0,0,8,10.818690396150725,SE,1,3,Happy repeater
+22,Male,Single,Student,No Income,Graduate,3,Regular,12.977,77.5773,560009,Yes,Positive,1,0,2,1,0,0,22-24,medium (3-4),0.0,0,0,0,1,1,1,0,1.9683820963726208,NW,0,22,Happy repeater
+24,Female,Single,Student,No Income,Post Graduate,3,Regular,12.9828,77.6131,560042,Yes,Positive,1,0,3,1,0,0,22-24,medium (3-4),0.0,0,0,0,1,1,1,0,2.3599293679556768,NE,0,3,Happy repeater
+23,Female,Single,Student,No Income,Post Graduate,2,Regular,12.9766,77.5993,560001,Yes,Positive,1,0,3,1,0,0,22-24,small (1-2),0.0,0,0,0,1,1,1,0,0.7539684605823624,NE,0,6,Happy repeater
+23,Female,Single,Student,No Income,Post Graduate,4,Frequent,12.9854,77.7081,560048,Yes,Positive,1,0,3,2,0,0,22-24,medium (3-4),0.0,0,0,0,1,1,1,0,12.393584698840568,NE,2,2,Happy repeater
+22,Female,Single,Student,No Income,Post Graduate,5,Frequent,12.985,77.5533,560010,Yes,Positive,1,0,3,2,0,0,22-24,large (5+),0.0,0,1,0,1,1,1,0,4.716578899167114,NW,0,8,Happy repeater
+23,Male,Single,Student,Below Rs.10000,Post Graduate,2,Regular,12.977,77.5773,560009,Yes,Negative,1,1,3,1,5000,1,22-24,small (1-2),2500.0,0,0,0,1,0,1,2,1.9683820963726208,NW,0,22,Reluctant repeater
+23,Male,Single,Student,No Income,Post Graduate,5,Frequent,12.8988,77.5764,560078,Yes,Positive,1,0,3,2,0,0,22-24,large (5+),0.0,0,1,0,1,1,1,0,8.33181890934431,SW,4,3,Happy repeater
+21,Male,Single,Student,No Income,Graduate,4,Frequent,12.977,77.5773,560009,Yes,Positive,1,0,2,2,0,0,18-21,medium (3-4),0.0,0,0,0,1,1,1,0,1.9683820963726208,NW,0,22,Happy repeater
+23,Female,Single,Self Employed,10001 to 25000,Post Graduate,5,Frequent,12.9438,77.5738,560004,Yes,Positive,1,2,3,2,17500,1,22-24,large (5+),3500.0,0,1,0,0,0,0,10,3.8256984572943264,SW,4,5,Happy repeater
+24,Female,Single,Student,No Income,Post Graduate,6,Frequent,12.8893,77.6399,560068,Yes,Positive,1,0,3,2,0,0,22-24,large (5+),0.0,0,1,0,1,1,1,0,10.385050754748042,SE,1,4,Happy repeater
+28,Female,Single,Employee,25001 to 50000,Post Graduate,2,Regular,12.9783,77.6408,560038,Yes,Positive,1,3,3,1,37500,1,28+,small (1-2),18750.0,0,0,0,0,0,0,6,5.061176905197918,NE,1,11,Happy repeater
+23,Female,Single,Student,No Income,Graduate,3,Regular,12.982,77.6256,560008,Yes,Negative,1,0,2,1,0,0,22-24,medium (3-4),0.0,0,0,0,1,1,1,0,3.5525012335265846,NE,0,5,Reluctant repeater
+25,Male,Single,Student,No Income,Graduate,4,Frequent,12.8988,77.5764,560078,Yes,Negative,1,0,2,2,0,0,25-27,medium (3-4),0.0,0,0,0,1,1,1,0,8.33181890934431,SW,4,3,Reluctant repeater
+21,Female,Single,Student,Below Rs.10000,Post Graduate,1,New,12.9783,77.6408,560038,Yes,Positive,1,1,3,0,5000,1,18-21,small (1-2),5000.0,1,0,0,1,0,1,1,5.061176905197918,NE,1,11,Happy repeater
+24,Male,Single,Student,No Income,Post Graduate,3,Regular,12.977,77.5773,560009,Yes,Positive,1,0,3,1,0,0,22-24,medium (3-4),0.0,0,0,0,1,1,1,0,1.9683820963726208,NW,0,22,Happy repeater
+22,Male,Single,Student,No Income,Post Graduate,4,Frequent,13.0298,77.6047,560032,Yes,Positive,1,0,3,2,0,0,22-24,medium (3-4),0.0,0,0,0,1,1,1,0,6.563409408827192,NE,3,2,Happy repeater
+22,Female,Single,Student,No Income,Graduate,4,Frequent,12.9983,77.6409,560033,Yes,Positive,1,0,2,2,0,0,22-24,medium (3-4),0.0,0,0,0,1,1,1,0,5.829361089243564,NE,0,1,Happy repeater
+23,Male,Single,Student,No Income,Graduate,4,Frequent,12.9925,77.5633,560021,Yes,Positive,1,0,2,2,0,0,22-24,medium (3-4),0.0,0,0,0,1,1,1,0,4.11129496408193,NW,0,6,Happy repeater
+21,Male,Single,Student,Below Rs.10000,Post Graduate,3,Regular,12.9306,77.5434,560085,Yes,Positive,1,1,3,1,5000,1,18-21,medium (3-4),1666.6666666666667,0,0,0,1,0,1,3,7.1811318097822046,SW,4,6,Happy repeater
+25,Male,Single,Student,No Income,Post Graduate,3,Regular,12.982,77.6256,560008,Yes,Positive,1,0,3,1,0,0,25-27,medium (3-4),0.0,0,0,0,1,1,1,0,3.5525012335265846,NE,0,5,Happy repeater
+22,Female,Single,Student,No Income,Post Graduate,5,Frequent,12.9353,77.5585,560050,Yes,Positive,1,0,3,2,0,0,22-24,large (5+),0.0,0,1,0,1,1,1,0,5.621029490856064,SW,4,1,Happy repeater
+22,Male,Single,Student,No Income,Post Graduate,3,Regular,12.9155,77.5135,560098,Yes,Positive,1,0,3,1,0,0,22-24,medium (3-4),0.0,0,0,0,1,1,1,0,10.777552373873679,SW,4,1,Happy repeater
+23,Female,Single,Employee,10001 to 25000,Graduate,3,Regular,12.9854,77.7081,560048,Yes,Positive,1,2,2,1,17500,1,22-24,medium (3-4),5833.333333333333,0,0,0,0,0,0,6,12.393584698840568,NE,2,2,Happy repeater
+22,Male,Single,Student,Below Rs.10000,Post Graduate,4,Frequent,13.0019,77.5713,560003,Yes,Positive,1,1,3,2,5000,1,22-24,medium (3-4),1250.0,0,0,0,1,0,1,4,4.2101094510124115,NW,0,7,Happy repeater
+22,Female,Single,Employee,10001 to 25000,Graduate,5,Frequent,12.9698,77.75,560066,Yes,Positive,1,2,2,2,17500,1,22-24,large (5+),3500.0,0,1,0,0,0,0,10,16.839989028756786,SE,2,8,Happy repeater
+22,Male,Single,Student,No Income,Post Graduate,4,Frequent,12.9783,77.6408,560038,Yes,Positive,1,0,3,2,0,0,22-24,medium (3-4),0.0,0,0,0,1,1,1,0,5.061176905197918,NE,1,11,Happy repeater
+25,Male,Married,Employee,More than 50000,Ph.D,4,Frequent,12.9261,77.6221,560034,Yes,Positive,1,4,4,2,60000,1,25-27,medium (3-4),15000.0,0,0,1,0,0,0,16,5.87181534488938,SE,1,7,Happy repeater
+22,Female,Single,Student,10001 to 25000,Post Graduate,5,Frequent,12.985,77.5533,560010,Yes,Positive,1,2,3,2,17500,1,22-24,large (5+),3500.0,0,1,0,1,0,1,10,4.716578899167114,NW,0,8,Happy repeater
+22,Female,Single,Student,No Income,Post Graduate,2,Regular,12.9119,77.6446,560102,Yes,Positive,1,0,3,1,0,0,22-24,small (1-2),0.0,0,0,0,1,1,1,0,8.569006110895666,SE,1,2,Happy repeater
+25,Male,Single,Student,10001 to 25000,Post Graduate,3,Regular,12.9306,77.5434,560085,Yes,Positive,1,2,3,1,17500,1,25-27,medium (3-4),5833.333333333333,0,0,0,1,0,1,6,7.1811318097822046,SW,4,6,Happy repeater
+25,Male,Single,Student,No Income,Post Graduate,5,Frequent,12.977,77.5773,560009,No,Positive,0,0,3,2,0,0,25-27,large (5+),0.0,0,1,0,1,1,1,0,1.9683820963726208,NW,0,22,Satisfied but lapsed
+32,Female,Prefer not to say,Housewife,No Income,Graduate,5,Frequent,12.982,77.6256,560008,Yes,Negative,1,0,2,2,0,0,28+,large (5+),0.0,0,1,0,0,1,0,0,3.5525012335265846,NE,0,5,Reluctant repeater
+23,Female,Single,Student,No Income,Post Graduate,3,Regular,12.9438,77.5738,560004,Yes,Positive,1,0,3,1,0,0,22-24,medium (3-4),0.0,0,0,0,1,1,1,0,3.8256984572943264,SW,4,5,Happy repeater
+23,Female,Single,Student,No Income,Post Graduate,4,Frequent,12.8988,77.5764,560078,Yes,Positive,1,0,3,2,0,0,22-24,medium (3-4),0.0,0,0,0,1,1,1,0,8.33181890934431,SW,4,3,Happy repeater
+30,Male,Married,Self Employed,More than 50000,Uneducated,4,Frequent,12.9662,77.6068,560025,Yes,Negative,1,4,0,2,60000,1,28+,medium (3-4),15000.0,0,0,1,0,0,0,16,1.4519504196666253,SE,0,3,Reluctant repeater
+23,Male,Single,Student,No Income,Graduate,3,Regular,12.9565,77.5484,560026,Yes,Positive,1,0,2,1,0,0,22-24,medium (3-4),0.0,0,0,0,1,1,1,0,5.280327677609137,SW,0,1,Happy repeater
+23,Male,Single,Student,No Income,Post Graduate,4,Frequent,12.9925,77.5633,560021,Yes,Positive,1,0,3,2,0,0,22-24,medium (3-4),0.0,0,0,0,1,1,1,0,4.11129496408193,NW,0,6,Happy repeater
+22,Male,Single,Student,No Income,Graduate,5,Frequent,12.985,77.5533,560010,Yes,Positive,1,0,2,2,0,0,22-24,large (5+),0.0,0,1,0,1,1,1,0,4.716578899167114,NW,0,8,Happy repeater
+27,Female,Married,Self Employed,10001 to 25000,Post Graduate,2,Regular,12.9261,77.6221,560034,Yes,Positive,1,2,3,1,17500,1,25-27,small (1-2),8750.0,0,0,1,0,0,0,4,5.87181534488938,SE,1,7,Happy repeater
+24,Female,Single,Student,No Income,Post Graduate,3,Regular,12.977,77.5773,560009,Yes,Positive,1,0,3,1,0,0,22-24,medium (3-4),0.0,0,0,0,1,1,1,0,1.9683820963726208,NW,0,22,Happy repeater
+23,Male,Single,Student,No Income,Post Graduate,2,Regular,12.977,77.5773,560009,Yes,Positive,1,0,3,1,0,0,22-24,small (1-2),0.0,0,0,0,1,1,1,0,1.9683820963726208,NW,0,22,Happy repeater
+23,Female,Single,Student,No Income,Graduate,5,Frequent,13.0206,77.6479,560043,Yes,Positive,1,0,2,2,0,0,22-24,large (5+),0.0,0,1,0,1,1,1,0,7.9395179310260025,NE,2,3,Happy repeater
+23,Female,Single,Student,No Income,Post Graduate,2,Regular,12.977,77.5773,560009,Yes,Positive,1,0,3,1,0,0,22-24,small (1-2),0.0,0,0,0,1,1,1,0,1.9683820963726208,NW,0,22,Happy repeater
+25,Male,Single,Student,No Income,Post Graduate,2,Regular,12.9635,77.5821,560002,Yes,Positive,1,0,3,1,0,0,25-27,small (1-2),0.0,0,0,0,1,1,1,0,1.626611260970586,SW,0,6,Happy repeater
+22,Male,Single,Student,No Income,Post Graduate,3,Regular,12.9306,77.5434,560085,Yes,Positive,1,0,3,1,0,0,22-24,medium (3-4),0.0,0,0,0,1,1,1,0,7.1811318097822046,SW,4,6,Happy repeater
+28,Female,Married,Student,No Income,Graduate,2,Regular,13.0067,77.545,560086,Yes,Positive,1,0,2,1,0,0,28+,small (1-2),0.0,0,0,1,1,1,0,0,6.6418681903768295,NW,0,2,Happy repeater
+22,Female,Single,Student,No Income,Post Graduate,1,New,12.8845,77.6036,560076,Yes,Positive,1,0,3,0,0,0,22-24,small (1-2),0.0,1,0,0,1,1,1,0,9.734069940155086,SE,4,6,Happy repeater
+24,Female,Single,Student,No Income,Graduate,3,Regular,12.977,77.5773,560009,Yes,Positive,1,0,2,1,0,0,22-24,medium (3-4),0.0,0,0,0,1,1,1,0,1.9683820963726208,NW,0,22,Happy repeater
+31,Male,Married,Employee,More than 50000,Ph.D,5,Frequent,12.9119,77.6446,560102,Yes,Positive,1,4,4,2,60000,1,28+,large (5+),12000.0,0,1,1,0,0,0,20,8.569006110895666,SE,1,2,Happy repeater
+25,Male,Single,Student,No Income,Post Graduate,4,Frequent,13.0067,77.545,560086,Yes,Positive,1,0,3,2,0,0,25-27,medium (3-4),0.0,0,0,0,1,1,1,0,6.6418681903768295,NW,0,2,Happy repeater
+22,Male,Single,Student,No Income,Post Graduate,3,Regular,12.8845,77.6036,560076,Yes,Positive,1,0,3,1,0,0,22-24,medium (3-4),0.0,0,0,0,1,1,1,0,9.734069940155086,SE,4,6,Happy repeater
+23,Male,Single,Student,25001 to 50000,Post Graduate,1,New,13.0158,77.539,560096,Yes,Positive,1,3,3,0,37500,1,22-24,small (1-2),37500.0,1,0,0,1,0,1,3,7.774678004917472,NW,3,4,Happy repeater
+23,Male,Single,Student,No Income,Graduate,4,Frequent,12.9343,77.6044,560029,Yes,Positive,1,0,2,2,0,0,22-24,medium (3-4),0.0,0,0,0,1,1,1,0,4.281372326286204,SE,1,7,Happy repeater
+23,Female,Single,Student,No Income,Post Graduate,2,Regular,13.0019,77.5713,560003,Yes,Positive,1,0,3,1,0,0,22-24,small (1-2),0.0,0,0,0,1,1,1,0,4.2101094510124115,NW,0,7,Happy repeater
+25,Male,Single,Student,No Income,Post Graduate,6,Frequent,13.0012,77.5995,560046,Yes,Positive,1,0,3,2,0,0,25-27,large (5+),0.0,0,1,0,1,1,1,0,3.3339152630169226,NE,0,3,Happy repeater
+24,Male,Single,Employee,10001 to 25000,Graduate,4,Frequent,12.9442,77.6076,560030,Yes,Positive,1,2,2,2,17500,1,22-24,medium (3-4),4375.0,0,0,0,0,0,0,8,3.3566550243388784,SE,1,5,Happy repeater
+23,Female,Single,Student,No Income,Post Graduate,4,Frequent,13.0487,77.5923,560024,Yes,Positive,1,0,3,2,0,0,22-24,medium (3-4),0.0,0,0,0,1,1,1,0,8.576749413283826,NW,3,3,Happy repeater
+24,Female,Married,Employee,More than 50000,Ph.D,4,Frequent,12.9438,77.5738,560004,Yes,Positive,1,4,4,2,60000,1,22-24,medium (3-4),15000.0,0,0,1,0,0,0,16,3.8256984572943264,SW,4,5,Happy repeater
+22,Male,Single,Student,No Income,Graduate,4,Frequent,12.9889,77.5741,560020,Yes,Positive,1,0,2,2,0,0,22-24,medium (3-4),0.0,0,0,0,1,1,1,0,2.938445709802981,NW,0,5,Happy repeater
+24,Female,Single,Student,10001 to 25000,Post Graduate,3,Regular,12.9335,77.5691,560028,No,Positive,0,2,3,1,17500,1,22-24,medium (3-4),5833.333333333333,0,0,0,1,0,1,6,5.058075046894925,SW,4,1,Satisfied but lapsed
+25,Female,Single,Student,No Income,Post Graduate,3,Regular,12.9766,77.5993,560001,Yes,Positive,1,0,3,1,0,0,25-27,medium (3-4),0.0,0,0,0,1,1,1,0,0.7539684605823624,NE,0,6,Happy repeater
+23,Male,Single,Student,No Income,Post Graduate,2,Regular,12.8845,77.6036,560076,Yes,Positive,1,0,3,1,0,0,22-24,small (1-2),0.0,0,0,0,1,1,1,0,9.734069940155086,SE,4,6,Happy repeater
+26,Male,Single,Student,No Income,Post Graduate,4,Frequent,13.0019,77.5713,560003,Yes,Positive,1,0,3,2,0,0,25-27,medium (3-4),0.0,0,0,0,1,1,1,0,4.2101094510124115,NW,0,7,Happy repeater
+24,Female,Single,Student,25001 to 50000,Post Graduate,3,Regular,13.102,77.5864,560064,Yes,Positive,1,3,3,1,37500,1,22-24,medium (3-4),12500.0,0,0,0,1,0,1,9,14.527002651991085,NW,3,2,Happy repeater
+26,Male,Single,Student,No Income,Post Graduate,4,Frequent,12.9048,77.6821,560036,Yes,Positive,1,0,3,2,0,0,25-27,medium (3-4),0.0,0,0,0,1,1,1,0,12.045378495127528,SE,1,5,Happy repeater
+22,Female,Single,Student,No Income,Post Graduate,3,Regular,12.977,77.5773,560009,Yes,Positive,1,0,3,1,0,0,22-24,medium (3-4),0.0,0,0,0,1,1,1,0,1.9683820963726208,NW,0,22,Happy repeater
+24,Male,Single,Student,No Income,Post Graduate,5,Frequent,12.9337,77.59,560011,Yes,Positive,1,0,3,2,0,0,22-24,large (5+),0.0,0,1,0,1,1,1,0,4.243666484779483,SW,4,5,Happy repeater
+24,Male,Single,Student,10001 to 25000,Post Graduate,4,Frequent,12.9037,77.5376,560061,Yes,Positive,1,2,3,2,17500,1,22-24,medium (3-4),4375.0,0,0,0,1,0,1,8,9.755127140174269,SW,4,2,Happy repeater
+23,Female,Single,Student,No Income,Post Graduate,3,Regular,12.977,77.5773,560009,Yes,Positive,1,0,3,1,0,0,22-24,medium (3-4),0.0,0,0,0,1,1,1,0,1.9683820963726208,NW,0,22,Happy repeater
+23,Male,Single,Student,No Income,Post Graduate,3,Regular,12.9343,77.6044,560029,Yes,Positive,1,0,3,1,0,0,22-24,medium (3-4),0.0,0,0,0,1,1,1,0,4.281372326286204,SE,1,7,Happy repeater
+22,Male,Single,Student,No Income,Post Graduate,3,Regular,12.9438,77.5738,560004,Yes,Positive,1,0,3,1,0,0,22-24,medium (3-4),0.0,0,0,0,1,1,1,0,3.8256984572943264,SW,4,5,Happy repeater
+23,Male,Single,Student,No Income,Post Graduate,3,Regular,12.977,77.5773,560009,Yes,Positive,1,0,3,1,0,0,22-24,medium (3-4),0.0,0,0,0,1,1,1,0,1.9683820963726208,NW,0,22,Happy repeater
+24,Female,Single,Student,No Income,Post Graduate,4,Frequent,12.9783,77.6408,560038,Yes,Positive,1,0,3,2,0,0,22-24,medium (3-4),0.0,0,0,0,1,1,1,0,5.061176905197918,NE,1,11,Happy repeater
+25,Male,Single,Student,No Income,Graduate,1,New,12.977,77.5773,560009,Yes,Positive,1,0,2,0,0,0,25-27,small (1-2),0.0,1,0,0,1,1,1,0,1.9683820963726208,NW,0,22,Happy repeater
+28,Male,Married,Self Employed,10001 to 25000,Graduate,2,Regular,13.0289,77.54,560022,No,Negative,0,2,2,1,17500,1,28+,small (1-2),8750.0,0,0,1,0,0,0,4,8.694268984942173,NW,3,3,Dissatisfied lapsed
+27,Female,Prefer not to say,Employee,25001 to 50000,Post Graduate,5,Frequent,13.0289,77.54,560022,No,Positive,0,3,3,2,37500,1,25-27,large (5+),7500.0,0,1,0,0,0,0,15,8.694268984942173,NW,3,3,Satisfied but lapsed
+26,Male,Single,Self Employed,10001 to 25000,Ph.D,1,New,12.9698,77.75,560066,No,Positive,0,2,4,0,17500,1,25-27,small (1-2),17500.0,1,0,0,0,0,0,2,16.839989028756786,SE,2,8,Satisfied but lapsed
+22,Male,Single,Student,No Income,Post Graduate,2,Regular,12.977,77.5773,560009,Yes,Positive,1,0,3,1,0,0,22-24,small (1-2),0.0,0,0,0,1,1,1,0,1.9683820963726208,NW,0,22,Happy repeater
+23,Male,Single,Student,No Income,Post Graduate,1,New,12.9561,77.5921,560027,Yes,Positive,1,0,3,0,0,0,22-24,small (1-2),0.0,1,0,0,1,1,1,0,1.7446815579595123,SW,0,4,Happy repeater
+26,Male,Married,Employee,25001 to 50000,Graduate,5,Frequent,12.9579,77.6309,560007,No,Positive,0,3,2,2,37500,1,25-27,large (5+),7500.0,0,1,1,0,0,0,15,4.218167319156922,SE,1,4,Satisfied but lapsed
+32,Female,Married,Housewife,No Income,Uneducated,3,Regular,13.014,77.5658,560012,No,Positive,0,0,0,1,0,0,28+,medium (3-4),0.0,0,0,1,0,1,0,0,5.6537710836083725,NW,0,4,Satisfied but lapsed
+23,Male,Single,Student,No Income,Post Graduate,2,Regular,12.9442,77.6076,560030,Yes,Positive,1,0,3,1,0,0,22-24,small (1-2),0.0,0,0,0,1,1,1,0,3.3566550243388784,SE,1,5,Happy repeater
+22,Female,Single,Employee,10001 to 25000,Graduate,3,Regular,12.9698,77.75,560066,Yes,Positive,1,2,2,1,17500,1,22-24,medium (3-4),5833.333333333333,0,0,0,0,0,0,6,16.839989028756786,SE,2,8,Happy repeater
+24,Female,Single,Student,No Income,Ph.D,3,Regular,12.9438,77.5738,560004,Yes,Positive,1,0,4,1,0,0,22-24,medium (3-4),0.0,0,0,0,1,1,1,0,3.8256984572943264,SW,4,5,Happy repeater
+26,Male,Single,Employee,25001 to 50000,Graduate,2,Regular,12.9261,77.6221,560034,Yes,Negative,1,3,2,1,37500,1,25-27,small (1-2),18750.0,0,0,0,0,0,0,6,5.87181534488938,SE,1,7,Reluctant repeater
+28,Male,Married,Employee,More than 50000,Graduate,3,Regular,12.9698,77.75,560066,No,Positive,0,4,2,1,60000,1,28+,medium (3-4),20000.0,0,0,1,0,0,0,12,16.839989028756786,SE,2,8,Satisfied but lapsed
+26,Male,Single,Employee,More than 50000,Post Graduate,2,Regular,12.9698,77.75,560066,No,Positive,0,4,3,1,60000,1,25-27,small (1-2),30000.0,0,0,0,0,0,0,8,16.839989028756786,SE,2,8,Satisfied but lapsed
+25,Male,Single,Student,No Income,Post Graduate,1,New,12.9343,77.6044,560029,Yes,Positive,1,0,3,0,0,0,25-27,small (1-2),0.0,1,0,0,1,1,1,0,4.281372326286204,SE,1,7,Happy repeater
+25,Male,Single,Employee,Below Rs.10000,Graduate,2,Regular,12.9698,77.75,560066,No,Positive,0,1,2,1,5000,1,25-27,small (1-2),2500.0,0,0,0,0,0,0,2,16.839989028756786,SE,2,8,Satisfied but lapsed
+18,Male,Single,Student,No Income,Graduate,5,Frequent,12.9635,77.5821,560002,Yes,Positive,1,0,2,2,0,0,18-21,large (5+),0.0,0,1,0,1,1,1,0,1.626611260970586,SW,0,6,Happy repeater
+21,Male,Single,Student,No Income,Post Graduate,4,Frequent,12.977,77.5773,560009,Yes,Positive,1,0,3,2,0,0,18-21,medium (3-4),0.0,0,0,0,1,1,1,0,1.9683820963726208,NW,0,22,Happy repeater
+25,Male,Single,Student,Below Rs.10000,Post Graduate,2,Regular,12.9925,77.5633,560021,Yes,Positive,1,1,3,1,5000,1,25-27,small (1-2),2500.0,0,0,0,1,0,1,2,4.11129496408193,NW,0,6,Happy repeater
+23,Male,Single,Employee,10001 to 25000,Post Graduate,2,Regular,12.985,77.5533,560010,Yes,Positive,1,2,3,1,17500,1,22-24,small (1-2),8750.0,0,0,0,0,0,0,4,4.716578899167114,NW,0,8,Happy repeater
+25,Female,Married,Employee,25001 to 50000,Graduate,4,Frequent,12.9551,77.6593,560017,No,Negative,0,3,2,2,37500,1,25-27,medium (3-4),9375.0,0,0,1,0,0,0,12,7.247046587375517,SE,1,5,Dissatisfied lapsed
+31,Female,Married,Housewife,No Income,School,5,Frequent,13.0289,77.54,560022,Yes,Positive,1,0,1,2,0,0,28+,large (5+),0.0,0,1,1,0,1,0,0,8.694268984942173,NW,3,3,Happy repeater
+24,Male,Prefer not to say,Self Employed,More than 50000,Ph.D,2,Regular,13.0138,77.5877,560006,No,Positive,0,4,4,1,60000,1,22-24,small (1-2),30000.0,0,0,0,0,0,0,8,4.751607138010774,NW,0,5,Satisfied but lapsed
+32,Female,Married,Employee,25001 to 50000,Graduate,5,Frequent,12.9261,77.6221,560034,Yes,Positive,1,3,2,2,37500,1,28+,large (5+),7500.0,0,1,1,0,0,0,15,5.87181534488938,SE,1,7,Happy repeater
+25,Male,Single,Employee,25001 to 50000,Graduate,3,Regular,12.9766,77.5993,560001,Yes,Positive,1,3,2,1,37500,1,25-27,medium (3-4),12500.0,0,0,0,0,0,0,9,0.7539684605823624,NE,0,6,Happy repeater
+27,Female,Married,Self Employed,More than 50000,Graduate,5,Frequent,12.9766,77.5993,560001,No,Positive,0,4,2,2,60000,1,25-27,large (5+),12000.0,0,1,1,0,0,0,20,0.7539684605823624,NE,0,6,Satisfied but lapsed
+26,Male,Single,Self Employed,25001 to 50000,Graduate,3,Regular,12.9766,77.5993,560001,Yes,Positive,1,3,2,1,37500,1,25-27,medium (3-4),12500.0,0,0,0,0,0,0,9,0.7539684605823624,NE,0,6,Happy repeater
+26,Female,Single,Self Employed,25001 to 50000,Post Graduate,3,Regular,12.9635,77.5821,560002,Yes,Positive,1,3,3,1,37500,1,25-27,medium (3-4),12500.0,0,0,0,0,0,0,9,1.626611260970586,SW,0,6,Happy repeater
+32,Male,Married,Employee,More than 50000,Ph.D,5,Frequent,12.9635,77.5821,560002,Yes,Negative,1,4,4,2,60000,1,28+,large (5+),12000.0,0,1,1,0,0,0,20,1.626611260970586,SW,0,6,Reluctant repeater
+24,Male,Married,Self Employed,More than 50000,Ph.D,6,Frequent,12.9635,77.5821,560002,No,Negative,0,4,4,2,60000,1,22-24,large (5+),10000.0,0,1,1,0,0,0,24,1.626611260970586,SW,0,6,Dissatisfied lapsed
+27,Female,Married,Self Employed,25001 to 50000,Graduate,3,Regular,12.9635,77.5821,560002,Yes,Positive,1,3,2,1,37500,1,25-27,medium (3-4),12500.0,0,0,1,0,0,0,9,1.626611260970586,SW,0,6,Happy repeater
+25,Male,Single,Student,No Income,Post Graduate,4,Frequent,12.977,77.5773,560009,Yes,Positive,1,0,3,2,0,0,25-27,medium (3-4),0.0,0,0,0,1,1,1,0,1.9683820963726208,NW,0,22,Happy repeater
+28,Male,Married,Employee,More than 50000,Post Graduate,3,Regular,13.0019,77.5713,560003,Yes,Positive,1,4,3,1,60000,1,28+,medium (3-4),20000.0,0,0,1,0,0,0,12,4.2101094510124115,NW,0,7,Happy repeater
+32,Female,Married,Employee,More than 50000,Graduate,1,New,13.0019,77.5713,560003,No,Positive,0,4,2,0,60000,1,28+,small (1-2),60000.0,1,0,1,0,0,0,4,4.2101094510124115,NW,0,7,Satisfied but lapsed
+23,Male,Single,Student,No Income,Post Graduate,2,Regular,13.0019,77.5713,560003,Yes,Positive,1,0,3,1,0,0,22-24,small (1-2),0.0,0,0,0,1,1,1,0,4.2101094510124115,NW,0,7,Happy repeater
+19,Male,Single,Student,No Income,Graduate,2,Regular,13.0019,77.5713,560003,No,Negative,0,0,2,1,0,0,18-21,small (1-2),0.0,0,0,0,1,1,1,0,4.2101094510124115,NW,0,7,Dissatisfied lapsed
+19,Female,Single,Student,No Income,Graduate,4,Frequent,12.9537,77.6176,560047,Yes,Positive,1,0,2,2,0,0,18-21,medium (3-4),0.0,0,0,0,1,1,1,0,3.1895542971277853,SE,1,1,Happy repeater
+27,Female,Married,Employee,25001 to 50000,Post Graduate,2,Regular,12.9698,77.75,560066,No,Positive,0,3,3,1,37500,1,25-27,small (1-2),18750.0,0,0,1,0,0,0,6,16.839989028756786,SE,2,8,Satisfied but lapsed
+25,Male,Single,Self Employed,25001 to 50000,Graduate,3,Regular,12.998,77.6227,560005,Yes,Positive,1,3,2,1,37500,1,25-27,medium (3-4),12500.0,0,0,0,0,0,0,9,4.229363234925792,NE,0,6,Happy repeater
+33,Male,Married,Employee,More than 50000,Ph.D,5,Frequent,12.998,77.6227,560005,No,Negative,0,4,4,2,60000,1,28+,large (5+),12000.0,0,1,1,0,0,0,20,4.229363234925792,NE,0,6,Dissatisfied lapsed
+26,Female,Single,Employee,More than 50000,Graduate,3,Regular,12.998,77.6227,560005,Yes,Positive,1,4,2,1,60000,1,25-27,medium (3-4),20000.0,0,0,0,0,0,0,12,4.229363234925792,NE,0,6,Happy repeater
+22,Female,Single,Student,Below Rs.10000,Post Graduate,4,Frequent,12.9343,77.6044,560029,Yes,Positive,1,1,3,2,5000,1,22-24,medium (3-4),1250.0,0,0,0,1,0,1,4,4.281372326286204,SE,1,7,Happy repeater
+23,Male,Single,Student,No Income,Post Graduate,3,Regular,13.102,77.5864,560064,No,Positive,0,0,3,1,0,0,22-24,medium (3-4),0.0,0,0,0,1,1,1,0,14.527002651991085,NW,3,2,Satisfied but lapsed
+22,Female,Single,Student,No Income,Graduate,3,Regular,13.0158,77.539,560096,Yes,Negative,1,0,2,1,0,0,22-24,medium (3-4),0.0,0,0,0,1,1,1,0,7.774678004917472,NW,3,4,Reluctant repeater
+25,Male,Married,Employee,25001 to 50000,Graduate,2,Regular,12.998,77.6227,560005,Yes,Positive,1,3,2,1,37500,1,25-27,small (1-2),18750.0,0,0,1,0,0,0,6,4.229363234925792,NE,0,6,Happy repeater
+30,Female,Married,Housewife,No Income,School,5,Frequent,12.998,77.6227,560005,Yes,Positive,1,0,1,2,0,0,28+,large (5+),0.0,0,1,1,0,1,0,0,4.229363234925792,NE,0,6,Happy repeater
+24,Male,Single,Student,No Income,Post Graduate,3,Regular,13.0138,77.5877,560006,No,Negative,0,0,3,1,0,0,22-24,medium (3-4),0.0,0,0,0,1,1,1,0,4.751607138010774,NW,0,5,Dissatisfied lapsed
+25,Male,Single,Employee,10001 to 25000,Post Graduate,3,Regular,13.0138,77.5877,560006,Yes,Positive,1,2,3,1,17500,1,25-27,medium (3-4),5833.333333333333,0,0,0,0,0,0,6,4.751607138010774,NW,0,5,Happy repeater
+23,Male,Single,Student,More than 50000,Post Graduate,3,Regular,12.977,77.5773,560009,Yes,Positive,1,4,3,1,60000,1,22-24,medium (3-4),20000.0,0,0,0,1,0,1,12,1.9683820963726208,NW,0,22,Happy repeater
+24,Female,Single,Student,No Income,Post Graduate,4,Frequent,13.0496,77.4941,560073,Yes,Positive,1,0,3,2,0,0,22-24,medium (3-4),0.0,0,0,0,1,1,1,0,13.920399556062433,NW,3,1,Happy repeater
+32,Male,Married,Employee,10001 to 25000,Graduate,4,Frequent,12.9783,77.6408,560038,Yes,Positive,1,2,2,2,17500,1,28+,medium (3-4),4375.0,0,0,1,0,0,0,8,5.061176905197918,NE,1,11,Happy repeater
+22,Male,Single,Student,No Income,Post Graduate,4,Frequent,12.9889,77.5741,560020,Yes,Positive,1,0,3,2,0,0,22-24,medium (3-4),0.0,0,0,0,1,1,1,0,2.938445709802981,NW,0,5,Happy repeater
+20,Male,Single,Student,No Income,Graduate,2,Regular,12.9579,77.6309,560007,Yes,Positive,1,0,2,1,0,0,18-21,small (1-2),0.0,0,0,0,1,1,1,0,4.218167319156922,SE,1,4,Happy repeater
+21,Male,Single,Student,No Income,Graduate,2,Regular,12.9579,77.6309,560007,Yes,Positive,1,0,2,1,0,0,18-21,small (1-2),0.0,0,0,0,1,1,1,0,4.218167319156922,SE,1,4,Happy repeater
+24,Female,Married,Self Employed,10001 to 25000,Graduate,5,Frequent,12.9579,77.6309,560007,Yes,Positive,1,2,2,2,17500,1,22-24,large (5+),3500.0,0,1,1,0,0,0,10,4.218167319156922,SE,1,4,Happy repeater
+25,Male,Single,Employee,25001 to 50000,Post Graduate,3,Regular,12.985,77.5533,560010,Yes,Positive,1,3,3,1,37500,1,25-27,medium (3-4),12500.0,0,0,0,0,0,0,9,4.716578899167114,NW,0,8,Happy repeater
+32,Female,Married,Housewife,No Income,Graduate,3,Regular,12.985,77.5533,560010,Yes,Positive,1,0,2,1,0,0,28+,medium (3-4),0.0,0,0,1,0,1,0,0,4.716578899167114,NW,0,8,Happy repeater
+27,Male,Married,Employee,More than 50000,Ph.D,5,Frequent,12.985,77.5533,560010,No,Negative,0,4,4,2,60000,1,25-27,large (5+),12000.0,0,1,1,0,0,0,20,4.716578899167114,NW,0,8,Dissatisfied lapsed
+20,Female,Single,Student,No Income,Graduate,2,Regular,12.9337,77.59,560011,Yes,Positive,1,0,2,1,0,0,18-21,small (1-2),0.0,0,0,0,1,1,1,0,4.243666484779483,SW,4,5,Happy repeater
+21,Male,Single,Student,No Income,Graduate,2,Regular,12.9337,77.59,560011,Yes,Positive,1,0,2,1,0,0,18-21,small (1-2),0.0,0,0,0,1,1,1,0,4.243666484779483,SW,4,5,Happy repeater
+26,Male,Single,Employee,More than 50000,Post Graduate,3,Regular,12.9337,77.59,560011,No,Negative,0,4,3,1,60000,1,25-27,medium (3-4),20000.0,0,0,0,0,0,0,12,4.243666484779483,SW,4,5,Dissatisfied lapsed
+25,Male,Single,Employee,10001 to 25000,Graduate,4,Frequent,13.0166,77.6804,560016,Yes,Positive,1,2,2,2,17500,1,25-27,medium (3-4),4375.0,0,0,0,0,0,0,8,10.55734248509298,NE,2,3,Happy repeater
+26,Male,Single,Employee,25001 to 50000,Post Graduate,3,Regular,13.014,77.5658,560012,Yes,Positive,1,3,3,1,37500,1,25-27,medium (3-4),12500.0,0,0,0,0,0,0,9,5.6537710836083725,NW,0,4,Happy repeater
+26,Female,Married,Employee,25001 to 50000,Graduate,3,Regular,13.014,77.5658,560012,Yes,Positive,1,3,2,1,37500,1,25-27,medium (3-4),12500.0,0,0,1,0,0,0,9,5.6537710836083725,NW,0,4,Happy repeater
+27,Male,Single,Employee,More than 50000,Ph.D,4,Frequent,13.0503,77.5529,560013,No,Positive,0,4,4,2,60000,1,25-27,medium (3-4),15000.0,0,0,0,0,0,0,16,9.84840662525567,NW,3,2,Satisfied but lapsed
+27,Female,Single,Student,No Income,Ph.D,5,Frequent,13.0503,77.5529,560013,No,Negative,0,0,4,2,0,0,25-27,large (5+),0.0,0,1,0,1,1,1,0,9.84840662525567,NW,3,2,Dissatisfied lapsed
+24,Female,Single,Student,No Income,Post Graduate,5,Frequent,12.9883,77.5987,560051,Yes,Positive,1,0,3,2,0,0,22-24,large (5+),0.0,0,1,0,1,1,1,0,1.9093562536403297,NE,0,1,Happy repeater
+25,Male,Married,Self Employed,More than 50000,School,2,Regular,13.0626,77.5284,560015,Yes,Positive,1,4,1,1,60000,1,25-27,small (1-2),30000.0,0,0,1,0,0,0,8,12.402646795401912,NW,3,7,Happy repeater
+20,Male,Single,Student,No Income,Graduate,2,Regular,13.0626,77.5284,560015,No,Negative,0,0,2,1,0,0,18-21,small (1-2),0.0,0,0,0,1,1,1,0,12.402646795401912,NW,3,7,Dissatisfied lapsed
+22,Male,Single,Student,No Income,Post Graduate,1,New,13.0626,77.5284,560015,Yes,Positive,1,0,3,0,0,0,22-24,small (1-2),0.0,1,0,0,1,1,1,0,12.402646795401912,NW,3,7,Happy repeater
+26,Female,Married,Student,Below Rs.10000,Ph.D,3,Regular,13.0166,77.6804,560016,Yes,Positive,1,1,4,1,5000,1,25-27,medium (3-4),1666.6666666666667,0,0,1,1,0,0,3,10.55734248509298,NE,2,3,Happy repeater
+27,Male,Prefer not to say,Employee,25001 to 50000,Post Graduate,1,New,13.0166,77.6804,560016,Yes,Positive,1,3,3,0,37500,1,25-27,small (1-2),37500.0,1,0,0,0,0,0,3,10.55734248509298,NE,2,3,Happy repeater
+25,Female,Single,Student,No Income,Post Graduate,3,Regular,12.9551,77.6593,560017,Yes,Positive,1,0,3,1,0,0,25-27,medium (3-4),0.0,0,0,0,1,1,1,0,7.247046587375517,SE,1,5,Happy repeater
+24,Male,Single,Employee,Below Rs.10000,Graduate,2,Regular,12.9551,77.6593,560017,Yes,Positive,1,1,2,1,5000,1,22-24,small (1-2),2500.0,0,0,0,0,0,0,2,7.247046587375517,SE,1,5,Happy repeater
+23,Female,Single,Employee,10001 to 25000,Graduate,6,Frequent,12.9551,77.6593,560017,Yes,Positive,1,2,2,2,17500,1,22-24,large (5+),2916.6666666666665,0,1,0,0,0,0,12,7.247046587375517,SE,1,5,Happy repeater
+22,Male,Single,Student,No Income,Graduate,2,Regular,12.957,77.5637,560018,No,Positive,0,0,2,1,0,0,22-24,small (1-2),0.0,0,0,0,1,1,1,0,3.721151518987313,SW,0,7,Satisfied but lapsed
+26,Male,Married,Self Employed,More than 50000,Post Graduate,3,Regular,12.957,77.5637,560018,No,Negative,0,4,3,1,60000,1,25-27,medium (3-4),20000.0,0,0,1,0,0,0,12,3.721151518987313,SW,0,7,Dissatisfied lapsed
+26,Male,Single,Employee,Below Rs.10000,Post Graduate,1,New,12.957,77.5637,560018,Yes,Negative,1,1,3,0,5000,1,25-27,small (1-2),5000.0,1,0,0,0,0,0,1,3.721151518987313,SW,0,7,Reluctant repeater
+25,Female,Married,Self Employed,25001 to 50000,Post Graduate,3,Regular,12.957,77.5637,560018,No,Positive,0,3,3,1,37500,1,25-27,medium (3-4),12500.0,0,0,1,0,0,0,9,3.721151518987313,SW,0,7,Satisfied but lapsed
+29,Female,Married,Employee,More than 50000,Graduate,3,Regular,12.957,77.5637,560018,No,Positive,0,4,2,1,60000,1,28+,medium (3-4),20000.0,0,0,1,0,0,0,12,3.721151518987313,SW,0,7,Satisfied but lapsed
+23,Male,Single,Student,Below Rs.10000,Graduate,3,Regular,12.8652,77.524,560109,Yes,Negative,1,1,2,1,5000,1,22-24,medium (3-4),1666.6666666666667,0,0,0,1,0,1,3,14.08984858980817,SW,4,1,Reluctant repeater
+22,Female,Single,Employee,25001 to 50000,Graduate,4,Frequent,12.9698,77.75,560066,Yes,Positive,1,3,2,2,37500,1,22-24,medium (3-4),9375.0,0,0,0,0,0,0,12,16.839989028756786,SE,2,8,Happy repeater
+22,Male,Single,Student,No Income,Graduate,2,Regular,12.9889,77.5741,560020,No,Positive,0,0,2,1,0,0,22-24,small (1-2),0.0,0,0,0,1,1,1,0,2.938445709802981,NW,0,5,Satisfied but lapsed
+32,Female,Married,Housewife,No Income,School,5,Frequent,12.9889,77.5741,560020,Yes,Positive,1,0,1,2,0,0,28+,large (5+),0.0,0,1,1,0,1,0,0,2.938445709802981,NW,0,5,Happy repeater
+28,Male,Married,Employee,More than 50000,Post Graduate,1,New,12.9925,77.5633,560021,Yes,Positive,1,4,3,0,60000,1,28+,small (1-2),60000.0,1,0,1,0,0,0,4,4.11129496408193,NW,0,6,Happy repeater
+25,Male,Single,Employee,10001 to 25000,Graduate,2,Regular,12.9757,77.5586,560023,Yes,Positive,1,2,2,1,17500,1,25-27,small (1-2),8750.0,0,0,0,0,0,0,4,3.9273846167304205,NW,0,5,Happy repeater
+26,Female,Married,Employee,25001 to 50000,Post Graduate,2,Regular,12.9757,77.5586,560023,No,Negative,0,3,3,1,37500,1,25-27,small (1-2),18750.0,0,0,1,0,0,0,6,3.9273846167304205,NW,0,5,Dissatisfied lapsed
+31,Male,Married,Self Employed,More than 50000,School,6,Frequent,13.0487,77.5923,560024,Yes,Positive,1,4,1,2,60000,1,28+,large (5+),10000.0,0,1,1,0,0,0,24,8.576749413283826,NW,3,3,Happy repeater
+24,Male,Single,Student,No Income,Post Graduate,3,Regular,13.0487,77.5923,560024,No,Negative,0,0,3,1,0,0,22-24,medium (3-4),0.0,0,0,0,1,1,1,0,8.576749413283826,NW,3,3,Dissatisfied lapsed
+24,Male,Single,Employee,25001 to 50000,Post Graduate,2,Regular,12.9662,77.6068,560025,Yes,Positive,1,3,3,1,37500,1,22-24,small (1-2),18750.0,0,0,0,0,0,0,6,1.4519504196666253,SE,0,3,Happy repeater
+31,Female,Married,Employee,More than 50000,Ph.D,5,Frequent,12.9662,77.6068,560025,Yes,Positive,1,4,4,2,60000,1,28+,large (5+),12000.0,0,1,1,0,0,0,20,1.4519504196666253,SE,0,3,Happy repeater
+26,Male,Single,Employee,25001 to 50000,Graduate,2,Regular,12.9343,77.6044,560029,Yes,Positive,1,3,2,1,37500,1,25-27,small (1-2),18750.0,0,0,0,0,0,0,6,4.281372326286204,SE,1,7,Happy repeater
+24,Female,Married,Self Employed,More than 50000,Graduate,2,Regular,12.9343,77.6044,560029,Yes,Positive,1,4,2,1,60000,1,22-24,small (1-2),30000.0,0,0,1,0,0,0,8,4.281372326286204,SE,1,7,Happy repeater
+22,Female,Single,Student,No Income,Graduate,3,Regular,12.9343,77.6044,560029,Yes,Positive,1,0,2,1,0,0,22-24,medium (3-4),0.0,0,0,0,1,1,1,0,4.281372326286204,SE,1,7,Happy repeater
+19,Male,Single,Student,No Income,Graduate,6,Frequent,12.9442,77.6076,560030,Yes,Positive,1,0,2,2,0,0,18-21,large (5+),0.0,0,1,0,1,1,1,0,3.3566550243388784,SE,1,5,Happy repeater
+25,Male,Married,Employee,More than 50000,Post Graduate,6,Frequent,12.9442,77.6076,560030,Yes,Positive,1,4,3,2,60000,1,25-27,large (5+),10000.0,0,1,1,0,0,0,24,3.3566550243388784,SE,1,5,Happy repeater
+23,Female,Married,Housewife,No Income,School,6,Frequent,12.9442,77.6076,560030,Yes,Positive,1,0,1,2,0,0,22-24,large (5+),0.0,0,1,1,0,1,0,0,3.3566550243388784,SE,1,5,Happy repeater
+23,Female,Single,Student,No Income,Graduate,2,Regular,13.0298,77.6047,560032,No,Negative,0,0,2,1,0,0,22-24,small (1-2),0.0,0,0,0,1,1,1,0,6.563409408827192,NE,3,2,Dissatisfied lapsed
+23,Male,Single,Student,No Income,Post Graduate,2,Regular,12.9261,77.6221,560034,Yes,Positive,1,0,3,1,0,0,22-24,small (1-2),0.0,0,0,0,1,1,1,0,5.87181534488938,SE,1,7,Happy repeater
+24,Male,Single,Student,No Income,Post Graduate,5,Frequent,12.9621,77.5376,560104,Yes,Positive,1,0,3,2,0,0,22-24,large (5+),0.0,0,1,0,1,1,1,0,6.266171024647482,SW,0,1,Happy repeater
+22,Female,Single,Employee,25001 to 50000,Graduate,4,Frequent,12.8845,77.6036,560076,Yes,Positive,1,3,2,2,37500,1,22-24,medium (3-4),9375.0,0,0,0,0,0,0,12,9.734069940155086,SE,4,6,Happy repeater
+26,Male,Married,Employee,More than 50000,Graduate,4,Frequent,12.9048,77.6821,560036,Yes,Positive,1,4,2,2,60000,1,25-27,medium (3-4),15000.0,0,0,1,0,0,0,16,12.045378495127528,SE,1,5,Happy repeater
+25,Female,Single,Student,No Income,Ph.D,3,Regular,12.9048,77.6821,560036,Yes,Positive,1,0,4,1,0,0,25-27,medium (3-4),0.0,0,0,0,1,1,1,0,12.045378495127528,SE,1,5,Happy repeater
+20,Male,Single,Student,No Income,Graduate,2,Regular,12.9261,77.6221,560034,Yes,Positive,1,0,2,1,0,0,18-21,small (1-2),0.0,0,0,0,1,1,1,0,5.87181534488938,SE,1,7,Happy repeater
+29,Male,Married,Employee,25001 to 50000,Graduate,4,Frequent,12.9261,77.6221,560034,No,Negative,0,3,2,2,37500,1,28+,medium (3-4),9375.0,0,0,1,0,0,0,12,5.87181534488938,SE,1,7,Dissatisfied lapsed
+23,Female,Single,Student,No Income,Graduate,1,New,12.977,77.5773,560009,Yes,Positive,1,0,2,0,0,0,22-24,small (1-2),0.0,1,0,0,1,1,1,0,1.9683820963726208,NW,0,22,Happy repeater
+25,Male,Single,Self Employed,More than 50000,Graduate,2,Regular,12.9783,77.6408,560038,Yes,Positive,1,4,2,1,60000,1,25-27,small (1-2),30000.0,0,0,0,0,0,0,8,5.061176905197918,NE,1,11,Happy repeater
+29,Female,Married,Employee,25001 to 50000,Graduate,4,Frequent,12.9783,77.6408,560038,No,Negative,0,3,2,2,37500,1,28+,medium (3-4),9375.0,0,0,1,0,0,0,12,5.061176905197918,NE,1,11,Dissatisfied lapsed
+27,Male,Married,Self Employed,25001 to 50000,Graduate,6,Frequent,12.9217,77.5936,560041,No,Negative,0,3,2,2,37500,1,25-27,large (5+),6250.0,0,1,1,0,0,0,18,5.5496849894250575,SW,4,4,Dissatisfied lapsed
+25,Male,Single,Self Employed,10001 to 25000,Graduate,3,Regular,13.0206,77.6479,560043,Yes,Positive,1,2,2,1,17500,1,25-27,medium (3-4),5833.333333333333,0,0,0,0,0,0,6,7.9395179310260025,NE,2,3,Happy repeater
+21,Male,Single,Student,No Income,Graduate,2,Regular,13.0012,77.5995,560046,No,Negative,0,0,2,1,0,0,18-21,small (1-2),0.0,0,0,0,1,1,1,0,3.3339152630169226,NE,0,3,Dissatisfied lapsed
+23,Male,Single,Student,No Income,Graduate,3,Regular,13.0223,77.7132,560049,Yes,Positive,1,0,2,1,0,0,22-24,medium (3-4),0.0,0,0,0,1,1,1,0,14.032164234974372,NE,2,1,Happy repeater
+24,Female,Single,Employee,10001 to 25000,Post Graduate,4,Frequent,12.9337,77.59,560011,Yes,Positive,1,2,3,2,17500,1,22-24,medium (3-4),4375.0,0,0,0,0,0,0,8,4.243666484779483,SW,4,5,Happy repeater
+32,Male,Married,Self Employed,10001 to 25000,School,3,Regular,12.982,77.6256,560008,Yes,Negative,1,2,1,1,17500,1,28+,medium (3-4),5833.333333333333,0,0,1,0,0,0,6,3.5525012335265846,NE,0,5,Reluctant repeater
+28,Male,Married,Employee,25001 to 50000,Post Graduate,5,Frequent,13.0262,77.62,560045,Yes,Positive,1,3,3,2,37500,1,28+,large (5+),7500.0,0,1,1,0,0,0,15,6.6658352378370465,NE,0,1,Happy repeater
+26,Male,Single,Employee,10001 to 25000,Graduate,2,Regular,12.9217,77.5936,560041,No,Negative,0,2,2,1,17500,1,25-27,small (1-2),8750.0,0,0,0,0,0,0,4,5.5496849894250575,SW,4,4,Dissatisfied lapsed
+31,Female,Married,Housewife,No Income,Graduate,5,Frequent,13.0078,77.5577,560055,Yes,Positive,1,0,2,2,0,0,28+,large (5+),0.0,0,1,1,0,1,0,0,5.6733997596542585,NW,0,2,Happy repeater
+27,Female,Married,Self Employed,25001 to 50000,Graduate,3,Regular,13.0078,77.5577,560055,Yes,Positive,1,3,2,1,37500,1,25-27,medium (3-4),12500.0,0,0,1,0,0,0,9,5.6733997596542585,NW,0,2,Happy repeater
+21,Female,Single,Student,No Income,Post Graduate,1,New,12.9217,77.5936,560041,Yes,Positive,1,0,3,0,0,0,18-21,small (1-2),0.0,1,0,0,1,1,1,0,5.5496849894250575,SW,4,4,Happy repeater
+23,Female,Single,Student,No Income,Graduate,2,Regular,12.9105,77.4842,560060,No,Positive,0,0,2,1,0,0,22-24,small (1-2),0.0,0,0,0,1,1,1,0,13.758590452595017,SW,4,2,Satisfied but lapsed
+26,Male,Married,Employee,10001 to 25000,Graduate,4,Frequent,12.9105,77.4842,560060,No,Positive,0,2,2,2,17500,1,25-27,medium (3-4),4375.0,0,0,1,0,0,0,8,13.758590452595017,SW,4,2,Satisfied but lapsed
+32,Male,Married,Employee,More than 50000,Graduate,5,Frequent,12.9037,77.5376,560061,Yes,Positive,1,4,2,2,60000,1,28+,large (5+),12000.0,0,1,1,0,0,0,20,9.755127140174269,SW,4,2,Happy repeater
+25,Female,Married,Student,No Income,Post Graduate,2,Regular,12.8834,77.5486,560062,Yes,Positive,1,0,3,1,0,0,25-27,small (1-2),0.0,0,0,1,1,1,0,0,11.001744458703737,SW,4,1,Happy repeater
+28,Male,Single,Self Employed,10001 to 25000,Post Graduate,2,Regular,12.9149,77.5635,560070,Yes,Positive,1,2,3,1,17500,1,28+,small (1-2),8750.0,0,0,0,0,0,0,4,7.149042847658697,SW,4,2,Happy repeater
+21,Female,Single,Student,No Income,Post Graduate,3,Regular,12.9149,77.5635,560070,Yes,Positive,1,0,3,1,0,0,18-21,medium (3-4),0.0,0,0,0,1,1,1,0,7.149042847658697,SW,4,2,Happy repeater
+24,Male,Single,Student,No Income,Post Graduate,2,Regular,12.9706,77.6529,560075,Yes,Positive,1,0,3,1,0,0,22-24,small (1-2),0.0,0,0,0,1,1,1,0,6.318227239131876,SE,1,3,Happy repeater
+26,Female,Married,Self Employed,10001 to 25000,Graduate,5,Frequent,12.9706,77.6529,560075,No,Negative,0,2,2,2,17500,1,25-27,large (5+),3500.0,0,1,1,0,0,0,10,6.318227239131876,SE,1,3,Dissatisfied lapsed
+32,Male,Married,Employee,25001 to 50000,Graduate,3,Regular,12.9706,77.6529,560075,Yes,Positive,1,3,2,1,37500,1,28+,medium (3-4),12500.0,0,0,1,0,0,0,9,6.318227239131876,SE,1,3,Happy repeater
+29,Male,Single,Self Employed,More than 50000,Graduate,6,Frequent,12.8845,77.6036,560076,Yes,Positive,1,4,2,2,60000,1,28+,large (5+),10000.0,0,1,0,0,0,0,24,9.734069940155086,SE,4,6,Happy repeater
+21,Male,Single,Student,No Income,Graduate,5,Frequent,12.9783,77.6408,560038,Yes,Positive,1,0,2,2,0,0,18-21,large (5+),0.0,0,1,0,1,1,1,0,5.061176905197918,NE,1,11,Happy repeater
+24,Female,Single,Self Employed,25001 to 50000,Post Graduate,3,Regular,13.0103,77.5796,560080,No,Negative,0,3,3,1,37500,1,22-24,medium (3-4),12500.0,0,0,0,0,0,0,9,4.599923110307402,NW,0,4,Dissatisfied lapsed
+26,Male,Prefer not to say,Self Employed,More than 50000,Post Graduate,2,Regular,13.0103,77.5796,560080,Yes,Positive,1,4,3,1,60000,1,25-27,small (1-2),30000.0,0,0,0,0,0,0,8,4.599923110307402,NW,0,4,Happy repeater
+25,Male,Married,Employee,More than 50000,Ph.D,3,Regular,12.9306,77.5434,560085,Yes,Positive,1,4,4,1,60000,1,25-27,medium (3-4),20000.0,0,0,1,0,0,0,12,7.1811318097822046,SW,4,6,Happy repeater
+29,Male,Single,Employee,25001 to 50000,Graduate,3,Regular,13.0641,77.5931,560092,No,Negative,0,3,2,1,37500,1,28+,medium (3-4),12500.0,0,0,0,0,0,0,9,10.286814386127142,NW,3,3,Dissatisfied lapsed
+22,Male,Single,Student,No Income,Graduate,3,Regular,13.0158,77.539,560096,Yes,Positive,1,0,2,1,0,0,22-24,medium (3-4),0.0,0,0,0,1,1,1,0,7.774678004917472,NW,3,4,Happy repeater
+24,Male,Single,Student,No Income,Graduate,2,Regular,12.9561,77.5921,560027,Yes,Positive,1,0,2,1,0,0,22-24,small (1-2),0.0,0,0,0,1,1,1,0,1.7446815579595123,SW,0,4,Happy repeater
+27,Male,Married,Employee,25001 to 50000,Graduate,2,Regular,12.8845,77.6036,560076,Yes,Positive,1,3,2,1,37500,1,25-27,small (1-2),18750.0,0,0,1,0,0,0,6,9.734069940155086,SE,4,6,Happy repeater
+23,Female,Single,Student,No Income,Post Graduate,3,Regular,12.9369,77.6407,560095,No,Positive,0,0,3,1,0,0,22-24,medium (3-4),0.0,0,0,0,1,1,1,0,6.312210588121938,SE,1,5,Satisfied but lapsed
+32,Male,Married,Employee,More than 50000,Post Graduate,6,Frequent,12.9369,77.6407,560095,Yes,Positive,1,4,3,2,60000,1,28+,large (5+),10000.0,0,1,1,0,0,0,24,6.312210588121938,SE,1,5,Happy repeater
+22,Female,Single,Student,No Income,Graduate,2,Regular,12.9369,77.6407,560095,Yes,Positive,1,0,2,1,0,0,22-24,small (1-2),0.0,0,0,0,1,1,1,0,6.312210588121938,SE,1,5,Happy repeater
+28,Male,Married,Employee,25001 to 50000,Graduate,3,Regular,12.9369,77.6407,560095,Yes,Positive,1,3,2,1,37500,1,28+,medium (3-4),12500.0,0,0,1,0,0,0,9,6.312210588121938,SE,1,5,Happy repeater
+23,Female,Single,Student,No Income,Post Graduate,2,Regular,13.0158,77.539,560096,Yes,Positive,1,0,3,1,0,0,22-24,small (1-2),0.0,0,0,0,1,1,1,0,7.774678004917472,NW,3,4,Happy repeater
+30,Male,Married,Self Employed,More than 50000,Graduate,1,New,13.0809,77.5565,560097,No,Negative,0,4,2,0,60000,1,28+,small (1-2),60000.0,1,0,1,0,0,0,4,12.835358989249924,NW,3,1,Dissatisfied lapsed
+21,Male,Single,Student,No Income,Graduate,3,Regular,13.0641,77.5931,560092,Yes,Positive,1,0,2,1,0,0,18-21,medium (3-4),0.0,0,0,0,1,1,1,0,10.286814386127142,NW,3,3,Happy repeater
+26,Female,Married,Employee,Below Rs.10000,Graduate,6,Frequent,12.9859,77.6713,560093,No,Negative,0,1,2,2,5000,1,25-27,large (5+),833.3333333333334,0,1,1,0,0,0,6,8.461520334901653,NE,2,2,Dissatisfied lapsed
+25,Male,Single,Self Employed,More than 50000,School,3,Regular,12.9859,77.6713,560093,Yes,Positive,1,4,1,1,60000,1,25-27,medium (3-4),20000.0,0,0,0,0,0,0,12,8.461520334901653,NE,2,2,Happy repeater
+31,Male,Prefer not to say,Employee,Below Rs.10000,Graduate,1,New,12.9866,77.4904,560091,No,Negative,0,1,2,0,5000,1,28+,small (1-2),5000.0,1,0,0,0,0,0,1,11.413034373178856,NW,0,1,Dissatisfied lapsed
+23,Female,Single,Employee,25001 to 50000,Post Graduate,2,Regular,12.9847,77.5491,560100,Yes,Positive,1,3,3,1,37500,1,22-24,small (1-2),18750.0,0,0,0,0,0,0,6,5.140820574989652,NW,0,3,Happy repeater
+29,Female,Married,Employee,25001 to 50000,Ph.D,3,Regular,12.9847,77.5491,560100,Yes,Positive,1,3,4,1,37500,1,28+,medium (3-4),12500.0,0,0,1,0,0,0,9,5.140820574989652,NW,0,3,Happy repeater
+21,Male,Single,Student,No Income,Graduate,6,Frequent,12.9847,77.5491,560100,Yes,Positive,1,0,2,2,0,0,18-21,large (5+),0.0,0,1,0,1,1,1,0,5.140820574989652,NW,0,3,Happy repeater
+20,Male,Single,Student,No Income,Graduate,3,Regular,12.9299,77.6848,560103,Yes,Positive,1,0,2,1,0,0,18-21,medium (3-4),0.0,0,0,0,1,1,1,0,10.818690396150725,SE,1,3,Happy repeater
+22,Male,Single,Employee,10001 to 25000,Graduate,2,Regular,12.9299,77.6848,560103,Yes,Positive,1,2,2,1,17500,1,22-24,small (1-2),8750.0,0,0,0,0,0,0,4,10.818690396150725,SE,1,3,Happy repeater
+30,Female,Married,Housewife,No Income,School,6,Frequent,12.9828,77.6131,560042,No,Positive,0,0,1,2,0,0,28+,large (5+),0.0,0,1,1,0,1,0,0,2.3599293679556768,NE,0,3,Satisfied but lapsed
+27,Male,Married,Self Employed,More than 50000,Graduate,3,Regular,12.989,77.5332,560079,Yes,Positive,1,4,2,1,60000,1,25-27,medium (3-4),20000.0,0,0,1,0,0,0,12,6.92853846130075,NW,0,1,Happy repeater
+23,Male,Single,Student,No Income,Post Graduate,2,Regular,12.977,77.5773,560009,No,Negative,0,0,3,1,0,0,22-24,small (1-2),0.0,0,0,0,1,1,1,0,1.9683820963726208,NW,0,22,Dissatisfied lapsed
+30,Male,Married,Self Employed,25001 to 50000,School,6,Frequent,12.9251,77.4992,560059,No,Negative,0,3,1,2,37500,1,28+,large (5+),6250.0,0,1,1,0,0,0,18,11.5591677524476,SW,4,1,Dissatisfied lapsed
+23,Male,Single,Student,No Income,Post Graduate,3,Regular,12.9967,77.7582,560067,Yes,Positive,1,0,3,1,0,0,22-24,medium (3-4),0.0,0,0,0,1,1,1,0,17.944748027791317,NE,2,4,Happy repeater
+28,Female,Married,Employee,25001 to 50000,Post Graduate,6,Frequent,12.9967,77.7582,560067,No,Negative,0,3,3,2,37500,1,28+,large (5+),6250.0,0,1,1,0,0,0,18,17.944748027791317,NE,2,4,Dissatisfied lapsed
+30,Male,Married,Self Employed,More than 50000,Graduate,6,Frequent,12.9967,77.7582,560067,Yes,Positive,1,4,2,2,60000,1,28+,large (5+),10000.0,0,1,1,0,0,0,24,17.944748027791317,NE,2,4,Happy repeater
+24,Female,Married,Employee,25001 to 50000,Post Graduate,2,Regular,12.957,77.5637,560018,Yes,Negative,1,3,3,1,37500,1,22-24,small (1-2),18750.0,0,0,1,0,0,0,6,3.721151518987313,SW,0,7,Reluctant repeater
+21,Male,Single,Student,No Income,Graduate,2,Regular,12.957,77.5637,560018,No,Negative,0,0,2,1,0,0,18-21,small (1-2),0.0,0,0,0,1,1,1,0,3.721151518987313,SW,0,7,Dissatisfied lapsed
+23,Female,Prefer not to say,Employee,10001 to 25000,Graduate,3,Regular,12.9889,77.5741,560020,No,Negative,0,2,2,1,17500,1,22-24,medium (3-4),5833.333333333333,0,0,0,0,0,0,6,2.938445709802981,NW,0,5,Dissatisfied lapsed
+25,Male,Married,Self Employed,More than 50000,Post Graduate,4,Frequent,13.0206,77.6479,560043,Yes,Positive,1,4,3,2,60000,1,25-27,medium (3-4),15000.0,0,0,1,0,0,0,16,7.9395179310260025,NE,2,3,Happy repeater
+24,Female,Single,Employee,25001 to 50000,Graduate,2,Regular,12.8893,77.6399,560068,Yes,Positive,1,3,2,1,37500,1,22-24,small (1-2),18750.0,0,0,0,0,0,0,6,10.385050754748042,SE,1,4,Happy repeater
+26,Male,Married,Employee,10001 to 25000,Graduate,3,Regular,12.8893,77.6399,560068,No,Negative,0,2,2,1,17500,1,25-27,medium (3-4),5833.333333333333,0,0,1,0,0,0,6,10.385050754748042,SE,1,4,Dissatisfied lapsed
+25,Female,Single,Employee,25001 to 50000,Post Graduate,2,Regular,12.9967,77.7582,560067,Yes,Positive,1,3,3,1,37500,1,25-27,small (1-2),18750.0,0,0,0,0,0,0,6,17.944748027791317,NE,2,4,Happy repeater
+22,Male,Single,Student,25001 to 50000,Graduate,3,Regular,12.9783,77.6408,560038,Yes,Positive,1,3,2,1,37500,1,22-24,medium (3-4),12500.0,0,0,0,1,0,1,9,5.061176905197918,NE,1,11,Happy repeater
+26,Female,Single,Employee,25001 to 50000,Post Graduate,2,Regular,12.9783,77.6408,560038,Yes,Positive,1,3,3,1,37500,1,25-27,small (1-2),18750.0,0,0,0,0,0,0,6,5.061176905197918,NE,1,11,Happy repeater
+23,Male,Single,Employee,10001 to 25000,Graduate,2,Regular,12.9925,77.5633,560021,Yes,Positive,1,2,2,1,17500,1,22-24,small (1-2),8750.0,0,0,0,0,0,0,4,4.11129496408193,NW,0,6,Happy repeater
+21,Female,Single,Employee,Below Rs.10000,Graduate,2,Regular,12.9925,77.5633,560021,No,Negative,0,1,2,1,5000,1,18-21,small (1-2),2500.0,0,0,0,0,0,0,2,4.11129496408193,NW,0,6,Dissatisfied lapsed
+25,Male,Married,Self Employed,25001 to 50000,Graduate,3,Regular,12.9561,77.5921,560027,Yes,Positive,1,3,2,1,37500,1,25-27,medium (3-4),12500.0,0,0,1,0,0,0,9,1.7446815579595123,SW,0,4,Happy repeater
+24,Female,Married,Employee,10001 to 25000,Post Graduate,2,Regular,12.9561,77.5921,560027,Yes,Positive,1,2,3,1,17500,1,22-24,small (1-2),8750.0,0,0,1,0,0,0,4,1.7446815579595123,SW,0,4,Happy repeater
+22,Male,Married,Student,No Income,Graduate,2,Regular,13.0734,77.5464,560014,Yes,Positive,1,0,2,1,0,0,22-24,small (1-2),0.0,0,0,1,1,1,0,0,12.465995829203777,NW,3,4,Happy repeater
+24,Male,Married,Employee,More than 50000,Post Graduate,3,Regular,12.9515,77.4921,560056,Yes,Positive,1,4,3,1,60000,1,22-24,medium (3-4),20000.0,0,0,1,0,0,0,12,11.329720164601616,SW,4,2,Happy repeater
+22,Female,Single,Student,No Income,Graduate,2,Regular,12.9515,77.4921,560056,Yes,Positive,1,0,2,1,0,0,22-24,small (1-2),0.0,0,0,0,1,1,1,0,11.329720164601616,SW,4,2,Happy repeater
+30,Male,Married,Employee,More than 50000,Graduate,5,Frequent,12.9719,77.5128,560072,No,Negative,0,4,2,2,60000,1,28+,large (5+),12000.0,0,1,1,0,0,0,20,8.863692141311459,NW,0,1,Dissatisfied lapsed
+23,Female,Prefer not to say,Employee,10001 to 25000,Graduate,4,Frequent,12.9048,77.6821,560036,Yes,Positive,1,2,2,2,17500,1,22-24,medium (3-4),4375.0,0,0,0,0,0,0,8,12.045378495127528,SE,1,5,Happy repeater
+19,Male,Single,Student,No Income,Graduate,6,Frequent,12.9048,77.6821,560036,Yes,Positive,1,0,2,2,0,0,18-21,large (5+),0.0,0,1,0,1,1,1,0,12.045378495127528,SE,1,5,Happy repeater
+21,Female,Single,Student,No Income,Graduate,2,Regular,13.0103,77.5796,560080,Yes,Positive,1,0,2,1,0,0,18-21,small (1-2),0.0,0,0,0,1,1,1,0,4.599923110307402,NW,0,4,Happy repeater
+23,Male,Single,Student,No Income,Graduate,4,Frequent,13.0103,77.5796,560080,Yes,Positive,1,0,2,2,0,0,22-24,medium (3-4),0.0,0,0,0,1,1,1,0,4.599923110307402,NW,0,4,Happy repeater
+24,Female,Single,Employee,25001 to 50000,Graduate,3,Regular,12.8893,77.6399,560068,Yes,Positive,1,3,2,1,37500,1,22-24,medium (3-4),12500.0,0,0,0,0,0,0,9,10.385050754748042,SE,1,4,Happy repeater
+26,Female,Married,Employee,10001 to 25000,Post Graduate,2,Regular,12.9828,77.6131,560042,No,Positive,0,2,3,1,17500,1,25-27,small (1-2),8750.0,0,0,1,0,0,0,4,2.3599293679556768,NE,0,3,Satisfied but lapsed
+26,Female,Single,Student,No Income,Ph.D,2,Regular,12.9757,77.5586,560023,Yes,Positive,1,0,4,1,0,0,25-27,small (1-2),0.0,0,0,0,1,1,1,0,3.9273846167304205,NW,0,5,Happy repeater
+25,Female,Single,Student,10001 to 25000,Graduate,2,Regular,12.9757,77.5586,560023,Yes,Positive,1,2,2,1,17500,1,25-27,small (1-2),8750.0,0,0,0,1,0,1,4,3.9273846167304205,NW,0,5,Happy repeater
+28,Female,Married,Employee,25001 to 50000,Graduate,5,Frequent,12.9757,77.5586,560023,No,Negative,0,3,2,2,37500,1,28+,large (5+),7500.0,0,1,1,0,0,0,15,3.9273846167304205,NW,0,5,Dissatisfied lapsed
+25,Female,Single,Student,No Income,Post Graduate,3,Regular,13.0734,77.5464,560014,Yes,Positive,1,0,3,1,0,0,25-27,medium (3-4),0.0,0,0,0,1,1,1,0,12.465995829203777,NW,3,4,Happy repeater
+20,Female,Single,Student,No Income,Graduate,2,Regular,13.0734,77.5464,560014,Yes,Positive,1,0,2,1,0,0,18-21,small (1-2),0.0,0,0,0,1,1,1,0,12.465995829203777,NW,3,4,Happy repeater
+27,Female,Married,Self Employed,More than 50000,Graduate,6,Frequent,13.0734,77.5464,560014,No,Positive,0,4,2,2,60000,1,25-27,large (5+),10000.0,0,1,1,0,0,0,24,12.465995829203777,NW,3,4,Satisfied but lapsed
+25,Female,Married,Employee,25001 to 50000,Graduate,3,Regular,13.0626,77.5284,560015,No,Positive,0,3,2,1,37500,1,25-27,medium (3-4),12500.0,0,0,1,0,0,0,9,12.402646795401912,NW,3,7,Satisfied but lapsed
+24,Female,Single,Student,No Income,Post Graduate,5,Frequent,13.0626,77.5284,560015,No,Negative,0,0,3,2,0,0,22-24,large (5+),0.0,0,1,0,1,1,1,0,12.402646795401912,NW,3,7,Dissatisfied lapsed
+25,Female,Married,Employee,More than 50000,Graduate,1,New,12.977,77.5773,560009,No,Negative,0,4,2,0,60000,1,25-27,small (1-2),60000.0,1,0,1,0,0,0,4,1.9683820963726208,NW,0,22,Dissatisfied lapsed
+25,Female,Prefer not to say,Employee,25001 to 50000,Post Graduate,3,Regular,12.998,77.6227,560005,No,Negative,0,3,3,1,37500,1,25-27,medium (3-4),12500.0,0,0,0,0,0,0,9,4.229363234925792,NE,0,6,Dissatisfied lapsed
+24,Female,Married,Student,Below Rs.10000,Ph.D,5,Frequent,13.0626,77.5284,560015,Yes,Positive,1,1,4,2,5000,1,22-24,large (5+),1000.0,0,1,1,1,0,0,5,12.402646795401912,NW,3,7,Happy repeater
+24,Male,Single,Student,No Income,Post Graduate,3,Regular,13.0626,77.5284,560015,Yes,Positive,1,0,3,1,0,0,22-24,medium (3-4),0.0,0,0,0,1,1,1,0,12.402646795401912,NW,3,7,Happy repeater
+22,Male,Single,Employee,10001 to 25000,Graduate,1,New,13.0138,77.5877,560006,Yes,Positive,1,2,2,0,17500,1,22-24,small (1-2),17500.0,1,0,0,0,0,0,2,4.751607138010774,NW,0,5,Happy repeater
+28,Male,Single,Employee,25001 to 50000,Post Graduate,2,Regular,13.0138,77.5877,560006,No,Negative,0,3,3,1,37500,1,28+,small (1-2),18750.0,0,0,0,0,0,0,6,4.751607138010774,NW,0,5,Dissatisfied lapsed
+25,Female,Single,Employee,More than 50000,Post Graduate,6,Frequent,13.014,77.5658,560012,No,Negative,0,4,3,2,60000,1,25-27,large (5+),10000.0,0,1,0,0,0,0,24,5.6537710836083725,NW,0,4,Dissatisfied lapsed
+21,Male,Married,Employee,More than 50000,Ph.D,3,Regular,12.9306,77.5434,560085,Yes,Positive,1,4,4,1,60000,1,18-21,medium (3-4),20000.0,0,0,1,0,0,0,12,7.1811318097822046,SW,4,6,Happy repeater
+27,Male,Married,Self Employed,25001 to 50000,Graduate,6,Frequent,12.9217,77.5936,560041,No,Positive,0,3,2,2,37500,1,25-27,large (5+),6250.0,0,1,1,0,0,0,18,5.5496849894250575,SW,4,4,Satisfied but lapsed
+22,Male,Married,Self Employed,10001 to 25000,School,3,Regular,12.982,77.6256,560008,Yes,Negative,1,2,1,1,17500,1,22-24,medium (3-4),5833.333333333333,0,0,1,0,0,0,6,3.5525012335265846,NE,0,5,Reluctant repeater
+29,Female,Married,Employee,25001 to 50000,Graduate,4,Frequent,12.9783,77.6408,560038,No,Positive,0,3,2,2,37500,1,28+,medium (3-4),9375.0,0,0,1,0,0,0,12,5.061176905197918,NE,1,11,Satisfied but lapsed
+21,Male,Single,Student,No Income,Graduate,2,Regular,13.0012,77.5995,560046,No,Positive,0,0,2,1,0,0,18-21,small (1-2),0.0,0,0,0,1,1,1,0,3.3339152630169226,NE,0,3,Satisfied but lapsed
+31,Male,Married,Employee,More than 50000,Ph.D,3,Regular,12.9306,77.5434,560085,Yes,Positive,1,4,4,1,60000,1,28+,medium (3-4),20000.0,0,0,1,0,0,0,12,7.1811318097822046,SW,4,6,Happy repeater
+30,Male,Married,Employee,More than 50000,Post Graduate,6,Frequent,12.9369,77.6407,560095,Yes,Positive,1,4,3,2,60000,1,28+,large (5+),10000.0,0,1,1,0,0,0,24,6.312210588121938,SE,1,5,Happy repeater
+21,Male,Single,Student,No Income,Graduate,3,Regular,13.0641,77.5931,560092,Yes,Negative,1,0,2,1,0,0,18-21,medium (3-4),0.0,0,0,0,1,1,1,0,10.286814386127142,NW,3,3,Reluctant repeater
+23,Male,Single,Student,Below Rs.10000,Post Graduate,2,Regular,12.977,77.5773,560009,Yes,Positive,1,1,3,1,5000,1,22-24,small (1-2),2500.0,0,0,0,1,0,1,2,1.9683820963726208,NW,0,22,Happy repeater
